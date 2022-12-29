@@ -27,9 +27,9 @@
     <br>
     --> Ranked #1148 in <a href="leetcode.com/contest/weekly-contest-325/"> LeetCode Weekly 325 </a>: Top 7% (Dec'22) 
     <br>
-    --> Ranked #1633 in <a href="leetcode.com/contest/biweekly-contest-93/"> LeetCode Biweekly 93 </a>: Top 9% (Dec'22)
+    --> Ranked #1633 in <a href="https://www.leetcode.com/contest/biweekly-contest-93/"> LeetCode Biweekly 93 </a>: Top 9% (Dec'22)
    </p>
-- My recent project on which I'm currently working is a: **Path Finding Visualizer**
+- My recent project on which I'm currently working is a <b> Path Finding Visualizer </b>
 
 - Feel free to connect with me via **mamaansharif@gmail.com**
 
