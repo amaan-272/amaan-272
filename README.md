@@ -1,3 +1,4 @@
+<body style="background-color: #80CCCC;">
 <h1>AMAAN</h1>
    A STEM grad with high hopes and versatile interests who's currently enhancing his skill set by setting his foot in competitive coding and working on some project prototypes of his own. 
   <br> 
@@ -61,3 +62,4 @@
    </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amaan-272&show_icons=true&locale=en&layout=compact" alt="amaan-272" /></p>
+</body>
