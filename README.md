@@ -1,5 +1,34 @@
-<h1 align="center">Welcome to the profile page of: Mohammad Amaan Sharif</h1>
-<h3 align="center">A STEM grad with high hopes and versatile interests who's currently enhancing his skill set by setting his foot in competitive coding and working on some project prototypes of his own. Currently in the final semester of Master of Computer Applications. Open to Software Development Roles. (Full Time/ Internships) Highest Rating on CodeChef: 1952 (4⭐) (Global Rank: 6801 ~ 600k users) [Currently: 8228] Highest Rating on LeetCode: 1479 (Top 42.67% globally) Solved 500+ questions on LeetCode (3⭐) with a loose ratio of 3:5:2 (Easy:Medium:Hard) Notable Competitive Programming Performances (C++) --> Ranked #100 in CodeChef Starters 66 (Div II): Top 0.45% (Nov'22) --> Ranked #127 in CodeChef November Long (Div III): Top 0.79% (Nov'22) --> Ranked #185 in CodeChef Starters 71 (Div II): Top 0.84% (Dec'22) --> Ranked #199 in CodeChef October Long (Div III): Top 0.75% (Oct'22) --> Ranked #222 in CodeChef Starters 70 (Div II): Top 1.08% (Dec'22) --> Ranked #293 in CodeChef Starters 68 (Div II): Top 1.44% (Dec'22) --> Ranked #1148 in LeetCode Weekly 325: Top 7% (Dec'22) --> Ranked #1633 in LeetCode Biweekly 93: Top 9% (Dec'22)</h3>
+<h1 align="center">This profile belongs to Mohammad Amaan Sharif</h1>
+<h3 align="center">
+   A STEM grad with high hopes and versatile interests who's currently enhancing his skill set by setting his foot in competitive coding and working on some project prototypes of his own. 
+  <br> 
+  Currently in the final semester of Master of Computer Applications. 
+  <br> 
+  Open to Software Development Roles. (Full Time/ Internships) 
+  <br><br>
+  Highest Rating on CodeChef: 1952 (4⭐) (Global Rank: 6801 ~ 600k users) [Currently: 8228]
+  <br>
+  Highest Rating on LeetCode: 1479 (Top 42.67% globally) 
+  <br>
+  Solved 500+ questions on LeetCode (3⭐) with a loose ratio of 3:5:2 (Easy:Medium:Hard) 
+  <br><br>
+  Notable Competitive Programming Performances (C++) 
+  <br>
+  --> Ranked #100 in CodeChef Starters 66 (Div II): Top 0.45% (Nov'22) 
+  <br>
+  --> Ranked #127 in CodeChef November Long (Div III): Top 0.79% (Nov'22) 
+  <br>
+  --> Ranked #185 in CodeChef Starters 71 (Div II): Top 0.84% (Dec'22) 
+  <br>
+  --> Ranked #199 in CodeChef October Long (Div III): Top 0.75% (Oct'22) 
+  <br>
+  --> Ranked #222 in CodeChef Starters 70 (Div II): Top 1.08% (Dec'22) 
+  <br>
+  --> Ranked #293 in CodeChef Starters 68 (Div II): Top 1.44% (Dec'22) 
+  <br>
+  --> Ranked #1148 in LeetCode Weekly 325: Top 7% (Dec'22) 
+  <br>
+  --> Ranked #1633 in LeetCode Biweekly 93: Top 9% (Dec'22)</h3>
 
 - My recent project on which I'm currently working is a: **Path Finding Visualizer**
 
@@ -9,11 +38,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/amaan272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/amaan272/" height="30" width="40" /></a>
-<a href="https://instagram.com/instagram.com/sm_a_si/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/sm_a_si/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/codechef.com/users/amaan272a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef.com/users/amaan272a" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/codeforces.com/profile/amaan_272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces.com/profile/amaan_272" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leetcode.com/amaan_272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/amaan_272/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amaan272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amaan272" height="30" width="40" /></a>
+<a href="https://instagram.com/sm_a_si" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sm_a_si" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/amaan272a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amaan272a" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/amaan_272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amaan_272" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/amaan_272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amaan_272" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
