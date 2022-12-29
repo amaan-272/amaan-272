@@ -35,7 +35,7 @@
 
 - Please find my resume here. <a href="https://docs.google.com/document/d/1VkdpRlVtDW3lUaMdmgF_ynL4cpQdVpnN-41oaIHAsbg/edit?usp=sharing"> Resume - Mohammad Amaan Sharif </a>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Media Handles:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amaan272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amaan272" height="30" width="40" /></a>
 <a href="https://instagram.com/sm_a_si" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sm_a_si" height="30" width="40" /></a>
