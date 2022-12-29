@@ -1,5 +1,5 @@
-<h1 align="center">This profile belongs to Mohammad Amaan Sharif</h1>
-<h3 align="center">
+<h1>AMAAN</h1>
+<h3>
    A STEM grad with high hopes and versatile interests who's currently enhancing his skill set by setting his foot in competitive coding and working on some project prototypes of his own. 
   <br> 
   Currently in the final semester of Master of Computer Applications. 
