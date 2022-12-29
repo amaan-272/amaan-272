@@ -19,7 +19,7 @@
     <br>
     --> Ranked #127 in <a href="https://www.codechef.com/NOV221"> CodeChef November Long </a> (Div III): Top 0.79% (Nov'22) 
     <br>
-    --> Ranked #185 in <a href="https://www.codechef.com/START71"> CodeChef Starters 71 </a> (Div II): Top 0.84% (Dec'22) 
+    --> Ranked #185 in <a href="https://www.codechef.com/START71"> CodeChef Starters 71 </a> (Div II): Top 0.78% (Dec'22) 
     <br>
     --> Ranked #199 in <a href="https://www.codechef.com/OCT221"> CodeChef October Long </a> (Div III): Top 0.75% (Oct'22) 
     <br>
