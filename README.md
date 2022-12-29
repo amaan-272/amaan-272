@@ -1,5 +1,4 @@
 <h1>AMAAN</h1>
-<h3>
    A STEM grad with high hopes and versatile interests who's currently enhancing his skill set by setting his foot in competitive coding and working on some project prototypes of his own. 
   <br> 
   Currently in the final semester of Master of Computer Applications. 
@@ -28,13 +27,13 @@
   <br>
    --> Ranked #1148 in <a href="leetcode.com/contest/weekly-contest-325/"> LeetCode Weekly 325 </a>: Top 7% (Dec'22) 
   <br>
-  --> Ranked #1633 in <a href="leetcode.com/contest/biweekly-contest-93/"> LeetCode Biweekly 93 </a>: Top 9% (Dec'22)</h3>
+  --> Ranked #1633 in <a href="leetcode.com/contest/biweekly-contest-93/"> LeetCode Biweekly 93 </a>: Top 9% (Dec'22)
 
 - My recent project on which I'm currently working is a: **Path Finding Visualizer**
 
 - Feel free to connect with me via **mamaansharif@gmail.com**
 
-- My resume [https://docs.google.com/document/d/1VkdpRlVtDW3lUaMdmgF_ynL4cpQdVpnN-41oaIHAsbg/edit?usp=sharing](https://docs.google.com/document/d/1VkdpRlVtDW3lUaMdmgF_ynL4cpQdVpnN-41oaIHAsbg/edit?usp=sharing)
+- Please find my resume here. <a href="https://docs.google.com/document/d/1VkdpRlVtDW3lUaMdmgF_ynL4cpQdVpnN-41oaIHAsbg/edit?usp=sharing"> Resume - Mohammad Amaan Sharif </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,7 +41,7 @@
 <a href="https://instagram.com/sm_a_si" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sm_a_si" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/amaan272a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amaan272a" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/amaan_272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amaan_272" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amaan_272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amaan_272" height="40" width="60" /></a>
+<a href="https://www.leetcode.com/amaan_272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amaan_272" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
