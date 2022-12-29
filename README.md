@@ -1,35 +1,26 @@
 <font color=" #80CCCC"> 
 <h1>AMAAN</h1>
-   A STEM grad with high hopes and versatile interests who's currently enhancing his skill set by setting his foot in competitive coding and working on some project prototypes of his own. 
-  <br> 
+   <p align="left">
+  A STEM grad with high hopes and versatile interests who's currently enhancing his skill set by setting his foot in competitive coding and working on some project prototypes of his own. 
   Currently in the final semester of Master of Computer Applications. 
-  <br> 
   Open to Software Development Roles. (Full Time/ Internships) 
-  <br><br>
+  </p>
+   <p align="left">
   Highest Rating on CodeChef: 1952 (4⭐) (Global Rank: 6801 ~ 600k users) [Currently: 8228]
-  <br>
   Highest Rating on LeetCode: 1479 (Top 42.67% globally) 
-  <br>
   Solved 500+ questions on LeetCode (3⭐) with a loose ratio of 3:5:2 (Easy:Medium:Hard) 
-  <br><br>
+   </p>
+   <p align="left">
   Notable Competitive Programming Performances (C++) 
-  <br>
-   --> Ranked #100 in <a href="codechef.com/START66"> CodeChef Starters 66 </a> (Div II): Top 0.45% (Nov'22) 
-  <br>
-  --> Ranked #127 in <a href="codechef.com/NOV221"> CodeChef November Long </a> (Div III): Top 0.79% (Nov'22) 
-  <br>
-  --> Ranked #185 in <a href="codechef.com/START71"> CodeChef Starters 71 </a> (Div II): Top 0.84% (Dec'22) 
-  <br>
-  --> Ranked #199 in <a href="codechef.com/OCT221"> CodeChef October Long </a> (Div III): Top 0.75% (Oct'22) 
-  <br>
-  --> Ranked #222 in <a href="codechef.com/START70"> CodeChef Starters 70 </a> (Div II): Top 1.08% (Dec'22) 
-  <br>
-  --> Ranked #293 in <a href="codechef.com/START68"> CodeChef Starters 68 </a> (Div II): Top 1.44% (Dec'22) 
-  <br>
-   --> Ranked #1148 in <a href="leetcode.com/contest/weekly-contest-325/"> LeetCode Weekly 325 </a>: Top 7% (Dec'22) 
-  <br>
-  --> Ranked #1633 in <a href="leetcode.com/contest/biweekly-contest-93/"> LeetCode Biweekly 93 </a>: Top 9% (Dec'22)
-
+     --> Ranked #100 in <a href="codechef.com/START66"> CodeChef Starters 66 </a> (Div II): Top 0.45% (Nov'22) 
+    --> Ranked #127 in <a href="codechef.com/NOV221"> CodeChef November Long </a> (Div III): Top 0.79% (Nov'22) 
+    --> Ranked #185 in <a href="codechef.com/START71"> CodeChef Starters 71 </a> (Div II): Top 0.84% (Dec'22) 
+    --> Ranked #199 in <a href="codechef.com/OCT221"> CodeChef October Long </a> (Div III): Top 0.75% (Oct'22) 
+    --> Ranked #222 in <a href="codechef.com/START70"> CodeChef Starters 70 </a> (Div II): Top 1.08% (Dec'22) 
+    --> Ranked #293 in <a href="codechef.com/START68"> CodeChef Starters 68 </a> (Div II): Top 1.44% (Dec'22) 
+    --> Ranked #1148 in <a href="leetcode.com/contest/weekly-contest-325/"> LeetCode Weekly 325 </a>: Top 7% (Dec'22) 
+    --> Ranked #1633 in <a href="leetcode.com/contest/biweekly-contest-93/"> LeetCode Biweekly 93 </a>: Top 9% (Dec'22)
+   </p>
 - My recent project on which I'm currently working is a: **Path Finding Visualizer**
 
 - Feel free to connect with me via **mamaansharif@gmail.com**
