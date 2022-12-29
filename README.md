@@ -14,21 +14,21 @@
   <br><br>
   Notable Competitive Programming Performances (C++) 
   <br>
-  --> Ranked #100 in CodeChef Starters 66 (Div II): Top 0.45% (Nov'22) 
+   --> Ranked #100 in <a href="codechef.com/START66"> CodeChef Starters 66 </a> (Div II): Top 0.45% (Nov'22) 
   <br>
-  --> Ranked #127 in CodeChef November Long (Div III): Top 0.79% (Nov'22) 
+  --> Ranked #127 in <a href="codechef.com/NOV221"> CodeChef November Long </a> (Div III): Top 0.79% (Nov'22) 
   <br>
-  --> Ranked #185 in CodeChef Starters 71 (Div II): Top 0.84% (Dec'22) 
+  --> Ranked #185 in <a href="codechef.com/START71"> CodeChef Starters 71 </a> (Div II): Top 0.84% (Dec'22) 
   <br>
-  --> Ranked #199 in CodeChef October Long (Div III): Top 0.75% (Oct'22) 
+  --> Ranked #199 in <a href="codechef.com/OCT221"> CodeChef October Long </a> (Div III): Top 0.75% (Oct'22) 
   <br>
-  --> Ranked #222 in CodeChef Starters 70 (Div II): Top 1.08% (Dec'22) 
+  --> Ranked #222 in <a href="codechef.com/START70"> CodeChef Starters 70 </a> (Div II): Top 1.08% (Dec'22) 
   <br>
-  --> Ranked #293 in CodeChef Starters 68 (Div II): Top 1.44% (Dec'22) 
+  --> Ranked #293 in <a href="codechef.com/START68"> CodeChef Starters 68 </a> (Div II): Top 1.44% (Dec'22) 
   <br>
-  --> Ranked #1148 in LeetCode Weekly 325: Top 7% (Dec'22) 
+   --> Ranked #1148 in <a href="leetcode.com/contest/weekly-contest-325/"> LeetCode Weekly 325 </a>: Top 7% (Dec'22) 
   <br>
-  --> Ranked #1633 in LeetCode Biweekly 93: Top 9% (Dec'22)</h3>
+  --> Ranked #1633 in <a href="leetcode.com/contest/biweekly-contest-93/"> LeetCode Biweekly 93 </a>: Top 9% (Dec'22)</h3>
 
 - My recent project on which I'm currently working is a: **Path Finding Visualizer**
 
