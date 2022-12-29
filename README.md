@@ -30,7 +30,7 @@
     <br>
     --> Ranked #1633 in LeetCode Biweekly 93: Top 9% (Dec'22)
    </p>
-- My recent project on which I'm currently working is a <b> Path Finding Visualizer </b>
+- My recent project on which I'm currently working is a <b> <a href="https://github.com/amaan-272/PathFindingVisualizer-Dijkstra"> Path Finding Visualizer </a> </b>
 
 - Feel free to connect with me via **mamaansharif@gmail.com**
 
