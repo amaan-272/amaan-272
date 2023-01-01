@@ -5,35 +5,23 @@
   Open to Software Development Roles. (Full Time/ Internships) 
   </p>
    <p align="left">
-  Highest Rating on CodeChef: 1952 (4⭐) (Global Rank: 6801 ~ 600k users) [Currently: 8228] 
-      <br>
-  Highest Rating on LeetCode: 1479 (Top 42.67% globally) 
-      <br>
-  Solved 500+ questions on LeetCode (3⭐) with a loose ratio of 3:5:2 (Easy:Medium:Hard) 
+  <br> Highest Rating on CodeChef: 1952 (4⭐) (Global Rank: 6801 ~ 600k users) [Currently: 8228] 
+  <br> Highest Rating on LeetCode: 1575 (Top 25.49% globally) 
+  <br> Solved 500+ questions on LeetCode (3⭐) with a loose ratio of 3:5:2 (Easy:Medium:Hard) 
    </p>
    <p align="left">
   Notable Competitive Programming Performances (C++) 
-    <br>
-    --> Ranked #100 in CodeChef Starters 66 (Div II): Top 0.45% (Nov'22) 
-    <br>
-    --> Ranked #127 in CodeChef November Long (Div III): Top 0.79% (Nov'22) 
-    <br>
-    --> Ranked #185 in CodeChef Starters 71 (Div II): Top 0.78% (Dec'22) 
-    <br>
-    --> Ranked #199 in CodeChef October Long (Div III): Top 0.75% (Oct'22) 
-    <br>
-    --> Ranked #222 in CodeChef Starters 70 (Div II): Top 1.08% (Dec'22) 
-    <br>
-    --> Ranked #293 in CodeChef Starters 68 </a> (Div II): Top 1.44% (Dec'22) 
-    <br>
-    --> Ranked #1148 in LeetCode Weekly 325: Top 7% (Dec'22) 
-    <br>
-    --> Ranked #1633 in LeetCode Biweekly 93: Top 9% (Dec'22)
+    <br> --> Ranked #100 in CodeChef Starters 66 (Div II): Top 0.45% (Nov'22) 
+    <br> --> Ranked #127 in CodeChef November Long (Div III): Top 0.79% (Nov'22) 
+    <br> --> Ranked #185 in CodeChef Starters 71 (Div II): Top 0.78% (Dec'22) 
+    <br> --> Ranked #199 in CodeChef October Long (Div III): Top 0.75% (Oct'22) 
+    <br> --> Ranked #222 in CodeChef Starters 70 (Div II): Top 1.08% (Dec'22) 
+    <br> --> Ranked #293 in CodeChef Starters 68 </a> (Div II): Top 1.44% (Dec'22) 
+    <br> --> Ranked #1148 in LeetCode Weekly 325: Top 7% (Dec'22) 
+    <br> --> Ranked #1633 in LeetCode Biweekly 93: Top 9% (Dec'22)
    </p>
 - My recent project on which I'm currently working is a <b> <a href="https://github.com/amaan-272/PathFindingVisualizer-Dijkstra"> Path Finding Visualizer </a> </b>
-
 - Feel free to connect with me via **mamaansharif@gmail.com**
-
 - Please find my resume here. <a href="https://docs.google.com/document/d/1VkdpRlVtDW3lUaMdmgF_ynL4cpQdVpnN-41oaIHAsbg/edit?usp=sharing"> Resume - Mohammad Amaan Sharif </a>
 
 <h3 align="left">Social Media Handles:</h3>
@@ -41,7 +29,7 @@
 <a href="https://linkedin.com/in/amaan272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amaan272" height="30" width="40" /></a>
 <a href="https://instagram.com/sm_a_si" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sm_a_si" height="30" width="40" /></a>
 </p>
-<h3 align="left">Competitive Programming Profiles:</h3>
+<h3 align="left"> <a href='https://clist.by/coder/amaan_272/'> Competitive Programming Profiles </a>:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/amaan272a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amaan272a" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/amaan_272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amaan_272" height="30" width="40" /></a>
