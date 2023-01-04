@@ -6,7 +6,7 @@
   </p>
    <p align="left">
   <br> Highest Rating on CodeChef: 1952 (4⭐) (Global Rank: 6801 ~ 600k users) [Currently: 8228] 
-  <br> Highest Rating on LeetCode: 1575 (Top 25% globally) 
+  <br> Highest Rating on LeetCode: 1593 (Top 22% globally) 
   <br> Solved 500+ questions on LeetCode (3⭐) with a loose ratio of 3:5:2 (Easy:Medium:Hard) 
    </p>
    <p align="left">
